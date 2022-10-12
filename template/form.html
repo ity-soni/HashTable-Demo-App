@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<style>
+input[type=text], select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  background-color: #7EC8E3;
+  color: black;
+  padding: 5px 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #00C0FF;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 200px;
+}
+</style>
+    
+<body>
+  <div>
+    <form action="{{ url_for("linear") }}" method="post">
+        <label for="firstname">First Name:</label>
+        <input type="text" id="firstname" name="fname" placeholder="firstname">
+        <label for="lastname">Last Name:</label>
+        <input type="text" id="lastname" name="lname" placeholder="lastname">
+        <button type="submit">Submit</button>
+    </form>
+  </div>
+</body>
+</html>

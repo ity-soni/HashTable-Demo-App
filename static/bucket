@@ -1,0 +1,177 @@
+
+digraph G {
+    nodesep=.1;
+    ranksep=.3;
+    rankdir=LR;
+    node [penwidth="0.5", shape=box, width=.1, height=.1];
+    
+// VERTICAL LIST or ITERATABLE
+node140216053116160 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+<tr><td port="0" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
+</tr>
+<tr><td port="1" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">1</font></td>
+</tr>
+<tr><td port="2" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">2</font></td>
+</tr>
+<tr><td port="3" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">3</font></td>
+</tr>
+<tr><td port="4" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">4</font></td>
+</tr>
+<tr><td port="5" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">5</font></td>
+</tr>
+<tr><td port="6" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">6</font></td>
+</tr>
+<tr><td port="7" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">7</font></td>
+</tr>
+<tr><td port="8" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">8</font></td>
+</tr>
+<tr><td port="9" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">9</font></td>
+</tr>
+<tr><td port="10" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">10</font></td>
+</tr>
+<tr><td port="11" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">11</font></td>
+</tr>
+<tr><td port="12" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">12</font></td>
+</tr>
+<tr><td port="13" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">13</font></td>
+</tr>
+<tr><td port="14" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">14</font></td>
+</tr>
+<tr><td port="15" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">15</font></td>
+</tr>
+<tr><td port="16" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">16</font></td>
+</tr>
+<tr><td port="17" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">17</font></td>
+</tr>
+<tr><td port="18" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">18</font></td>
+</tr>
+<tr><td port="19" BORDER="0" cellpadding="3" cellspacing="0" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">19</font></td>
+</tr>
+</table>
+>];
+node140216371896576 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+// VERTICAL LIST or ITERATABLE
+node140216371898432 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+<tr><td port="0" BORDER="0" cellpadding="3" cellspacing="0" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
+</tr>
+</table>
+>];
+// LIST or ITERATABLE of atoms
+node140216053370304 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
+<tr>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="br" valign="top"><font color="#444443" point-size="9">0</font></td>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="b" valign="top"><font color="#444443" point-size="9">1</font></td>
+</tr>
+<tr>
+<td port="0" bgcolor="#fefecd" border="1" sides="r" align="center"><font point-size="11">'Manish'</font></td>
+<td port="1" bgcolor="#fefecd" border="0" align="center"><font point-size="11">'V'</font></td>
+</tr></table>
+>];
+node140216371875392 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371875456 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371898688 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371896384 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371896768 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371921920 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371875712 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371896640 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371896512 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371875584 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371898368 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+// VERTICAL LIST or ITERATABLE
+node140216371896832 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+<tr><td port="0" BORDER="0" cellpadding="3" cellspacing="0" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
+</tr>
+</table>
+>];
+// LIST or ITERATABLE of atoms
+node140215785023488 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
+<tr>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="br" valign="top"><font color="#444443" point-size="9">0</font></td>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="b" valign="top"><font color="#444443" point-size="9">1</font></td>
+</tr>
+<tr>
+<td port="0" bgcolor="#fefecd" border="1" sides="r" align="center"><font point-size="11">'Ity'</font></td>
+<td port="1" bgcolor="#fefecd" border="0" align="center"><font point-size="11">'Soni'</font></td>
+</tr></table>
+>];
+// VERTICAL LIST or ITERATABLE
+node140216371898624 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+<tr><td port="0" BORDER="0" cellpadding="3" cellspacing="0" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
+</tr>
+</table>
+>];
+// LIST or ITERATABLE of atoms
+node140216053401792 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
+<tr>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="br" valign="top"><font color="#444443" point-size="9">0</font></td>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="b" valign="top"><font color="#444443" point-size="9">1</font></td>
+</tr>
+<tr>
+<td port="0" bgcolor="#fefecd" border="1" sides="r" align="center"><font point-size="11">'Ity'</font></td>
+<td port="1" bgcolor="#fefecd" border="0" align="center"><font point-size="11">'Soni'</font></td>
+</tr></table>
+>];
+node140216371898880 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+// VERTICAL LIST or ITERATABLE
+node140216371898752 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+<tr><td port="0" BORDER="0" cellpadding="3" cellspacing="0" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
+</tr>
+</table>
+>];
+// LIST or ITERATABLE of atoms
+node140215785024384 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
+<tr>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="br" valign="top"><font color="#444443" point-size="9">0</font></td>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="b" valign="top"><font color="#444443" point-size="9">1</font></td>
+</tr>
+<tr>
+<td port="0" bgcolor="#fefecd" border="1" sides="r" align="center"><font point-size="11">'Dev'</font></td>
+<td port="1" bgcolor="#fefecd" border="0" align="center"><font point-size="11">'D'</font></td>
+</tr></table>
+>];
+// VERTICAL LIST or ITERATABLE
+node140216371899008 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+<tr><td port="0" BORDER="0" cellpadding="3" cellspacing="0" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
+</tr>
+</table>
+>];
+// LIST or ITERATABLE of atoms
+node140216370988672 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
+<tr>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="br" valign="top"><font color="#444443" point-size="9">0</font></td>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="b" valign="top"><font color="#444443" point-size="9">1</font></td>
+</tr>
+<tr>
+<td port="0" bgcolor="#fefecd" border="1" sides="r" align="center"><font point-size="11">'Dev'</font></td>
+<td port="1" bgcolor="#fefecd" border="0" align="center"><font point-size="11">'V'</font></td>
+</tr></table>
+>];
+node140216371898496 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216371898560 [margin="0.03", shape=none label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140216053116160:0 -> node140216371896576:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:1 -> node140216371898432:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:2 -> node140216371875392:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:3 -> node140216371875456:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:4 -> node140216371898688:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:5 -> node140216371896384:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:6 -> node140216371896768:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:7 -> node140216371921920:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:8 -> node140216371875712:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:9 -> node140216371896640:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:10 -> node140216371896512:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:11 -> node140216371875584:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:12 -> node140216371898368:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:13 -> node140216371896832:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:14 -> node140216371898624:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:15 -> node140216371898880:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:16 -> node140216371898752:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:17 -> node140216371899008:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:18 -> node140216371898496:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216053116160:19 -> node140216371898560:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216371898432:0 -> node140216053370304:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216371896832:0 -> node140215785023488:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216371898624:0 -> node140216053401792:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216371898752:0 -> node140215785024384:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140216371899008:0 -> node140216370988672:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+}
