@@ -1,1 +1,1 @@
-# comm-project
+The app has basic implementation of hash tables and the application provide scenarios to demonstrate how hash tables are generated along with the concepts of collision and different ways to handle it.
